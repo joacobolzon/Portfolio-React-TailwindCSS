@@ -75,10 +75,10 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="flex text-[20px] gap-x-6 mx-auto lg:mx-0"
             >
-              <a href="#">
+              <a href="https://github.com/joacobolzon">
                 <FaGithub />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/joaquin-bolzon-b83a9a24a">
                 <FaLinkedin />
               </a>
             </motion.div>
