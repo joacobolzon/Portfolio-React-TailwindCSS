@@ -36,7 +36,7 @@ const About = () => {
             <h3 className="h3 mb-4">
               I'm a Full Stack Web Developer with almost +700 hours of experience
             </h3>
-            <p className="mb-6">Texto a modificar</p>
+            <p className="mb-6">I define myself as a responsible person, quick learner and broad adaptation. I like challenges and teamwork! I hope to have the pleasure of working together.</p>
             {/* stats */}
             <div className="flex gap-x-6 lg:gap-x-10 mb-12">
               <div>
