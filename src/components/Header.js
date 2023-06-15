@@ -12,7 +12,9 @@ const Header = () => {
           <img className="flex w-40 h-20 object-cover" src={logo} alt="logo"></img>
         </a>
         {/* button */}
-        <button className="btn btn-sm">Work with me</button>
+        <a href={"mailto:joacobolzon3@gmail.com"}>
+          <button className="btn btn-sm">Work with me</button>
+        </a>
       </div>
       </div>
     </header>
