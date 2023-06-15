@@ -53,8 +53,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="mb-8 max-w-lg mx-auto lg:mx-0"
             >
-              Egresado de Soy Henry! Background de mas de 700 horas de codigo y
-              proyectos atravesados
+              Graduated from Soy Henry! Background with more than 700 hours of codding and challenges!
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
