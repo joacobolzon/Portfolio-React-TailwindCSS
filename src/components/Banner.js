@@ -62,7 +62,9 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
+               <a href={"mailto:joacobolzon3@gmail.com"}>
               <button className="btn btn-lg">Contact me</button>
+              </a>
               <a href="#" className="text-gradient btn-link">
                 My Portfolio
               </a>
