@@ -80,7 +80,7 @@ const Banner = () => {
               <a href="https://github.com/joacobolzon" target="_blank" rel="noreferrer">
                 <FaGithub />
               </a>
-              <a href="https://www.linkedin.com/in/joaquin-bolzon-b83a9a24a" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/enzo-joaquin-bolzon-b83a9a24a/" target="_blank" rel="noreferrer">
                 <FaLinkedin />
               </a>
             </motion.div>
