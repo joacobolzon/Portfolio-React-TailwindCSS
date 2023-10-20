@@ -22,7 +22,7 @@ const Contact = () => {
         (result) => {
           console.log(result.text);
           setTimeout(() => {
-            window.alert("E-Mail enviado");
+            window.alert("E-Mail sent");
             window.location.href = "https://portfolio-joacobolzon.vercel.app/";
           }, 2000);
         },
